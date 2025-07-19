@@ -30,7 +30,7 @@
 ---
 ## 🚀 **Explorar Recursos**  
 <p align="center">
-  <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Kirito-Bot">
+  <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Incógnito">
 </p>  
 
 
