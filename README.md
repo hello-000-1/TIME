@@ -8,7 +8,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=💻Tengo+conocimientos+básicos+en+Hacking❗️+" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=💻Te+apasiona+el+mundo+del+Hacking❗️+" alt="Typing SVG">
 
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ---
 
-### 🏆 **Información**  
+### 📄 **Detalles**  
 ©️ **Reconocimiento:** `Hello-ZTMC`  
-✔️ **Compatibilidad dispositivo Android**  
-✔️ **Status**
+✔️ **Comunidad** `Fsociety`
+✔️ **Área** `Seguridad ofensiva`
 
 ---
 ## 🚀 **Explorar Recursos**  
@@ -36,7 +36,7 @@
 
 ## 🌐 ***Forma parte de la Comunidad*** 
 
-💬 **Canal Oficial:** [`Click❎️Aquí`](https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U)  
+💬 **Canal Oficial:** [`Click,Fsociety`](https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U)  
 
 ---
 
@@ -52,12 +52,12 @@
 ## 🌟 **CREADOR**
 
 <p align="center">
-  <a href="https://github.com/deylinqff" target="_blank">
+  <a href="https://github.com/hello-000-1/TIME" target="_blank">
     <img src="https://github.com/deylinqff.png" width="150" height="150" alt="Deylin" style="border-radius: 50%; border: 4px solid #00F7FF;"/>
   </a>
 </p>
 
-## 👑 **CONTÁCTAME**
+## 👑 **Te invito A que sea parte de esta comunidad**
 
 <p align="center">
   <a href="https://github.com/Hello-ZT15">
@@ -79,9 +79,9 @@
   </a>
 </p>
 
-## ⚔️ [© Powered By ZTMC 👑](https://Wa.me/51939467706)
+## ⚔️ [©Incógnito📌](https://Wa.me/51939467706)
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U" target="_blank">
-    <img src="https://img.shields.io/badge/©%20Powered%20By%20Zuri-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
+    <img src="https://img.shields.io/badge/©%20Powered%20By%20Time-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
   </a>
