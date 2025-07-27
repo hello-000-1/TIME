@@ -18,7 +18,12 @@
 <p align="center">
   <img src="20250325_231611.gif" alt="Menú Principal">
 </p>
-
+<p align="center">
+  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+</p>
 
 ---
 
@@ -30,8 +35,11 @@
 ---
 ## 🚀 **Explorar Recursos**  
 <p align="center">
-  <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Incógnito">
-</p>  
+  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+</p>
 
 
 ## 🌐 ***Forma parte de la Comunidad*** 
