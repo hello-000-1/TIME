@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLO%20-ZT15&fontColor=C0C0C0&descAlignY=39&descSize=22&stroke=9&animation=scaleIn&fontSize=60&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLO%20-TIME&fontColor=C0C0C0&descAlignY=39&descSize=22&stroke=9&animation=scaleIn&fontSize=60&reversal=true"/>
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=❕️+Fsociety+❕️+" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=❕️+Bienvenid@+❕️+" alt="Typing SVG">
 </p>
 
 ---
@@ -19,18 +19,16 @@
   <img src="20250325_231611.gif" alt="Menú Principal">
 </p>
 <p align="center">
-  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
-</p>
-<p align="center">
-  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
-</p>
+
 
 ---
 
 ### 📄 **Detalles**  
 ©️ **Reconocimiento:** `Hello-ZTMC`  
-✔️ **Comunidad** `Fsociety`
-✔️ **Área** `Seguridad ofensiva`
+✔️ **Comunidad:** `Fsociety`
+✔️ **Área:** `Seguridad Ofensiva `
+
+
 
 ---
 ## 🚀 **Explorar Recursos**  
@@ -38,10 +36,14 @@
   <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
 </p>
 <p align="center">
-  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+  <img src="c874459ad3530efb77488f88f34e1302.png" alt="Incógnito">
 </p>
-
-
+<p align="center">
+  <img src="fa4585afc057491a68394c600c82a2ab.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="900a540a8c91c858663c0d6e61311e9f.png" alt="Incógnito">
+</p>
 ## 🌐 ***Forma parte de la Comunidad*** 
 
 💬 **Canal Oficial:** [`Click,Fsociety`](https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U)  
