@@ -8,7 +8,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=💻Te+apasiona+el+mundo+del+Hacking❗️+" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=💻Te+interesa+el+mundo+de+los+códigos?+" alt="Typing SVG">
 
 
 <p align="center">
